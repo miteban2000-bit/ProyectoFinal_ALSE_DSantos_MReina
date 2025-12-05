@@ -1,0 +1,5 @@
+/home/miguel_reina/Proyecto_final/inventario/inventario/build/CMakeFiles/inventory.dir
+/home/miguel_reina/Proyecto_final/inventario/inventario/build/CMakeFiles/edit_cache.dir
+/home/miguel_reina/Proyecto_final/inventario/inventario/build/CMakeFiles/rebuild_cache.dir
+/home/miguel_reina/Proyecto_final/inventario/inventario/build/CMakeFiles/inventory_autogen_timestamp_deps.dir
+/home/miguel_reina/Proyecto_final/inventario/inventario/build/CMakeFiles/inventory_autogen.dir

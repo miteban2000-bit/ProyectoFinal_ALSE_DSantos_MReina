@@ -1,0 +1,3 @@
+id,name,type,quantity,location,purchase_date
+1,"Resistor 10k","Electronico",10,"Cajon 1",2025-12-05
+2,"Condensador","Electronico",100,"Cajon 2",2025-12-05
